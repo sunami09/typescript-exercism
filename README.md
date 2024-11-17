@@ -1,0 +1,4 @@
+- string type
+- optional, default parameters
+- ternary operators
+- 
